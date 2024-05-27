@@ -62,7 +62,7 @@ export function calculate(expression: Expression): OptionalNumber {
   return calculateSimpleExpression(simpleExpression);
 }
 
-/* Código para criar uma calculadora com typescript que faz o seguinte:
+/* Instruções para criar calculadora com typescript que faz o seguinte:
 No Cálculo Jurídico nós desenvolvemos um sistema voltado para advogados, principalmente da área previdenciária. 
 O nosso sistema ajuda os advogados a fazerem uma série de cálculos aritméticos como correção monetária e conversão de moeda. 
 Isso acontece porque muitos aposentandos começaram a trabalhar antes do plano Real em 1994 e seus salários anteriores em cruzeiros
